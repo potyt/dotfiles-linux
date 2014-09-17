@@ -1,4 +1,4 @@
-dotfiles-beast
+dotfiles-linux
 ==============
 
-Configuration files commonly found in UNIX home directories, for host ``beast``.
+Configuration files commonly found in UNIX home directories, for Linux hosts.
